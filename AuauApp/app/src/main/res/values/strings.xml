@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Auau App</string>
+    <string name="cadastrar">Cadastrar Cachorro</string>
+    <string name="listar">Listar Cachorros</string>
+    <string name="raca">Raça</string>
+    <string name="preco">Preço</string>
+    <string name="para_criancas">Para crianças?</string>
+    <string name="cadastro_cachorro_ok">Cão cadastrado com sucesso</string>
+    <string name="listar_cachorros">Lista de cachorros</string>
+    <string name="quantidade_x">Cachorros indicados para crianças:</string>
+    <string name="quantidade_y">Cachorros não indicados para crianças:</string>
+    <string name="quantidade_vazio">Sem cachorros cadastrado</string>
+    <string name="quantidade_total">Total de Cachorros:</string>
+</resources>
